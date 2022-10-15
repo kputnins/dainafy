@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "moduleResolution": "node",
+    "outDir": "./dist/esnext",
+    "allowSyntheticDefaultImports": true,
+    "declaration": true,
+    "sourceMap": true,
+    "noEmit": false,
+    "skipLibCheck": true
+  },
+  "files": ["src/index.ts"],
+}
