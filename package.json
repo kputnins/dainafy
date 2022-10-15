@@ -1,7 +1,7 @@
 {
-  "name": "app",
-  "version": "1.0.0",
-  "description": "A yarn workspaces starter template",
+  "name": "dainafy",
+  "version": "0.0.1",
+  "description": "A generator of Latvian folk songs - dainas",
   "main": "index.js",
   "repository": "https://github.com/kputnins/dainafy.git",
   "author": "Kaspars Putniņš",

@@ -1,7 +1,7 @@
 {
-  "name": "@app/lib",
-  "version": "1.0.0",
-  "description": "A sample library",
+  "name": "@dainafy/model",
+  "version": "0.0.1",
+  "description": "A LSTM model that generates Latvian folk songs - dainas",
   "main": "dist/common/index.js",
   "module": "dist/esnext/index.js",
   "types": "dist/esnext/index.d.ts",

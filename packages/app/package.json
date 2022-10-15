@@ -1,7 +1,7 @@
 {
-  "name": "@app/app",
-  "version": "1.0.0",
-  "description": "A sample app",
+  "name": "@dainafy/app",
+  "version": "0.0.1",
+  "description": "A web interface to generate LAtvian folk songs - Dainas",
   "main": "dist/common/index.js",
   "module": "dist/esnext/index.js",
   "types": "dist/esnext/index.d.ts",
@@ -20,7 +20,7 @@
     "format": "prettier --write \"./src/**/*.{js,jsx,ts,tsx,json,css,scss,md}\""
   },
   "dependencies": {
-    "@app/lib": "1.0.0"
+    "@dainafy/model": "0.0.1"
   },
   "devDependencies": {
     "@liene-putnina/eslint-config-lintmyride": "^1.0.8",
